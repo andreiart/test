@@ -9,6 +9,7 @@ const PLACES = [
   { name: "Minsk", zip: "220000" },
   { name: "Moscow", zip: "83843" },
   { name: "Riga", zip: "49276" },
+  { name: "Honolulu", zip: "96803" },
   { name: "Honolulu", zip: "96803" }
 ];
 
